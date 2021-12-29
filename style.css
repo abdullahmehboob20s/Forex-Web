@@ -8,6 +8,7 @@
 }
 
 :root {
+  scroll-behavior: smooth;
   --fs-18px: 18px;
   --fs-16px: 16px;
   --fs-60px: 60px;
